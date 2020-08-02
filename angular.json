@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "employeesEnv"
+    }
+  },
+  "defaultProject": "employeesEnv",
+  "cli": {
+    "analytics": false
+  }
 }
